@@ -1,0 +1,22 @@
+[
+	{
+		"nama": "Muhammad Amirul",
+		"nim": "1857301023",
+		"hobi": {
+			"hobi1": "Gaming",
+			"hobi2": "Coding",
+			"hobi3": "Sport"
+		},
+		"email": "amirul@pnl.ac.id"
+	},
+	{
+		"nama": "Muhammad Alif",
+		"nim": "1857301020",
+		"hobi": {
+			"hobi1": "Gaming",
+			"hobi2": "Coding",
+			"hobi3": "Sport"
+		},
+		"email": "alif@pnl.ac.id"
+	}
+]
