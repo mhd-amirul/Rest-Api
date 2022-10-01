@@ -1,0 +1,31 @@
+/* 
+YTAccessToken = AIzaSyDAx_HBJu1ugSvdFcPBUPVTknwK9t6cfrU
+IGID = 1992585101
+IGAccessToken = IGQVJWd2NqU2xqb09sb1VweHNpMkt4T3VUdm8xUDNJZA3h5d05ydWVpbk84VmV2OEtVUGRGSjBwc0duUkczS1M5Sm9nWlhnZAHZA0QWpDdTRIcnBEaTFGcEkxcmk3NUJTUkRhaGc3X3hvWjlxNEY2SmdnawZDZD */
+body {
+    margin-top: 50px;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
+.ig-thumbnail {
+    width: 100px;
+    height: 100px;
+    float: left;
+    overflow: hidden;
+}
+
+.ig-thumbnail img {
+    width: 100px;
+}
